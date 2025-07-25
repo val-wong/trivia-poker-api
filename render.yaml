@@ -14,5 +14,5 @@ services:
     env: node
     plan: starter
     rootDir: frontend
-    buildCommand: npm install && npm run build
-    startCommand: npx serve -s dist
+    buildCommand: cd frontend && npm install && npm run build
+    startCommand: cd frontend && npx serve -s dist
