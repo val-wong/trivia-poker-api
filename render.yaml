@@ -8,12 +8,15 @@ services:
     autoDeploy: true
     envVars:
       - key: PYTHON_VERSION
-        value: 3.11.9   # ✅ must be full version
+        value: 3.11.9
 
   - type: web
     name: poker-trivia-frontend
     env: static
     plan: starter
-    buildCommand: npm install && npm run build
-    staticPublishPath: frontend/dist
     autoDeploy: true
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    buildFilter:
+      paths:
+        - frontend/**
