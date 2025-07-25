@@ -9,7 +9,6 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.9
 
-services:
   - type: web
     name: poker-trivia-frontend
     env: node
