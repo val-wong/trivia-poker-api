@@ -1,29 +1,8 @@
 services:
   - type: web
-    name: poker-trivia-backend
+    name: poker-trivia-api
     env: python
     plan: free
-    buildCommand: pip install -r backend/requirements.txt
-    startCommand: uvicorn main:app --host 0.0.0.0 --port 8000
-
-    envVars:
-      - key: ENV
-        value: production
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn poker_api.main:app --host 0.0.0.0 --port 8000"
     autoDeploy: true
-    repo: https://github.com/YOUR_USERNAME/poker-trivia-api
-    branch: main
-    rootDir: backend
-
-  - type: web
-    name: poker-trivia-frontend
-    env: static
-    plan: free
-    buildCommand: npm install && npm run build
-    staticPublishPath: dist
-    envVars:
-      - key: VITE_BACKEND_URL
-        value: https://poker-trivia-backend.onrender.com
-    autoDeploy: true
-    repo: https://github.com/YOUR_USERNAME/poker-trivia-api
-    branch: main
-    rootDir: frontend
