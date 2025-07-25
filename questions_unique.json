@@ -1,0 +1,901 @@
+[
+  {
+    "id": "3bet-light-vs-tight",
+    "question": "You’re on the button with A♣ 5♦ and a tight player raises from UTG. What should you do?",
+    "options": [
+      "Fold",
+      "Call",
+      "3-bet",
+      "All-in"
+    ],
+    "correct_answer": "Fold",
+    "explanation": "A5 offsuit is too weak to 3-bet or call against a tight UTG range.",
+    "tags": [
+      "preflop",
+      "UTG",
+      "3bet",
+      "strategy"
+    ]
+  },
+  {
+    "id": "cbet-dry-flop",
+    "question": "You raise preflop and the flop comes K♠ 7♦ 2♣. Should you continuation bet?",
+    "options": [
+      "Yes",
+      "No",
+      "Check-raise",
+      "All-in"
+    ],
+    "correct_answer": "Yes",
+    "explanation": "This is a dry flop where you often have the stronger range, so a c-bet is profitable.",
+    "tags": [
+      "postflop",
+      "cbet",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-3",
+    "question": "Sample strategy question #3: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-4",
+    "question": "Sample strategy question #4: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-5",
+    "question": "Sample strategy question #5: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-6",
+    "question": "Sample strategy question #6: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-7",
+    "question": "Sample strategy question #7: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-8",
+    "question": "Sample strategy question #8: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-9",
+    "question": "Sample strategy question #9: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-10",
+    "question": "Sample strategy question #10: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-11",
+    "question": "Sample strategy question #11: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-12",
+    "question": "Sample strategy question #12: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-13",
+    "question": "Sample strategy question #13: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-14",
+    "question": "Sample strategy question #14: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-15",
+    "question": "Sample strategy question #15: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-16",
+    "question": "Sample strategy question #16: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-17",
+    "question": "Sample strategy question #17: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-18",
+    "question": "Sample strategy question #18: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-19",
+    "question": "Sample strategy question #19: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-20",
+    "question": "Sample strategy question #20: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-21",
+    "question": "Sample strategy question #21: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-22",
+    "question": "Sample strategy question #22: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-23",
+    "question": "Sample strategy question #23: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-24",
+    "question": "Sample strategy question #24: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-25",
+    "question": "Sample strategy question #25: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-26",
+    "question": "Sample strategy question #26: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-27",
+    "question": "Sample strategy question #27: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-28",
+    "question": "Sample strategy question #28: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-29",
+    "question": "Sample strategy question #29: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-30",
+    "question": "Sample strategy question #30: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-31",
+    "question": "Sample strategy question #31: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-32",
+    "question": "Sample strategy question #32: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-33",
+    "question": "Sample strategy question #33: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-34",
+    "question": "Sample strategy question #34: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-35",
+    "question": "Sample strategy question #35: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-36",
+    "question": "Sample strategy question #36: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-37",
+    "question": "Sample strategy question #37: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-38",
+    "question": "Sample strategy question #38: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-39",
+    "question": "Sample strategy question #39: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-40",
+    "question": "Sample strategy question #40: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-41",
+    "question": "Sample strategy question #41: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-42",
+    "question": "Sample strategy question #42: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-43",
+    "question": "Sample strategy question #43: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-44",
+    "question": "Sample strategy question #44: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-45",
+    "question": "Sample strategy question #45: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-46",
+    "question": "Sample strategy question #46: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-47",
+    "question": "Sample strategy question #47: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-48",
+    "question": "Sample strategy question #48: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-49",
+    "question": "Sample strategy question #49: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  },
+  {
+    "id": "hand-50",
+    "question": "Sample strategy question #50: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
+    "tags": [
+      "preflop",
+      "position",
+      "cutoff",
+      "strategy"
+    ]
+  }
+]
