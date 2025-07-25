@@ -79,3 +79,8 @@ def search_trivia(q: str = Query(...), request: Request = None):
     ]
     return {"query": q, "results": results}
 
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=False)
+
+
