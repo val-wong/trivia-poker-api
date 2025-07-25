@@ -1,901 +1,852 @@
 [
-    {
-      "id": "3bet-light-vs-tight",
-      "question": "You\u2019re on the button with A\u2663 5\u2666 and a tight player raises from UTG. What should you do?",
-      "options": [
-        "Fold",
-        "Call",
-        "3-bet",
-        "All-in"
-      ],
-      "correct_answer": "Fold",
-      "explanation": "A5 offsuit is too weak to 3-bet or call against a tight UTG range.",
-      "tags": [
-        "preflop",
-        "UTG",
-        "3bet",
-        "strategy"
-      ]
-    },
-    {
-      "id": "cbet-dry-flop",
-      "question": "You raise preflop and the flop comes K\u2660 7\u2666 2\u2663. Should you continuation bet?",
-      "options": [
-        "Yes",
-        "No",
-        "Check-raise",
-        "All-in"
-      ],
-      "correct_answer": "Yes",
-      "explanation": "This is a dry flop where you often have the stronger range, so a c-bet is profitable.",
-      "tags": [
-        "postflop",
-        "cbet",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-3",
-      "question": "Sample strategy question #3: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-4",
-      "question": "Sample strategy question #4: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-5",
-      "question": "Sample strategy question #5: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-6",
-      "question": "Sample strategy question #6: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-7",
-      "question": "Sample strategy question #7: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-8",
-      "question": "Sample strategy question #8: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-9",
-      "question": "Sample strategy question #9: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-10",
-      "question": "Sample strategy question #10: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-11",
-      "question": "Sample strategy question #11: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-12",
-      "question": "Sample strategy question #12: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-13",
-      "question": "Sample strategy question #13: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-14",
-      "question": "Sample strategy question #14: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-15",
-      "question": "Sample strategy question #15: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-16",
-      "question": "Sample strategy question #16: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-17",
-      "question": "Sample strategy question #17: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-18",
-      "question": "Sample strategy question #18: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-19",
-      "question": "Sample strategy question #19: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-20",
-      "question": "Sample strategy question #20: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-21",
-      "question": "Sample strategy question #21: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-22",
-      "question": "Sample strategy question #22: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-23",
-      "question": "Sample strategy question #23: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-24",
-      "question": "Sample strategy question #24: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-25",
-      "question": "Sample strategy question #25: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-26",
-      "question": "Sample strategy question #26: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-27",
-      "question": "Sample strategy question #27: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-28",
-      "question": "Sample strategy question #28: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-29",
-      "question": "Sample strategy question #29: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-30",
-      "question": "Sample strategy question #30: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-31",
-      "question": "Sample strategy question #31: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-32",
-      "question": "Sample strategy question #32: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-33",
-      "question": "Sample strategy question #33: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-34",
-      "question": "Sample strategy question #34: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-35",
-      "question": "Sample strategy question #35: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-36",
-      "question": "Sample strategy question #36: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-37",
-      "question": "Sample strategy question #37: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-38",
-      "question": "Sample strategy question #38: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-39",
-      "question": "Sample strategy question #39: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-40",
-      "question": "Sample strategy question #40: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-41",
-      "question": "Sample strategy question #41: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-42",
-      "question": "Sample strategy question #42: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-43",
-      "question": "Sample strategy question #43: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-44",
-      "question": "Sample strategy question #44: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-45",
-      "question": "Sample strategy question #45: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-46",
-      "question": "Sample strategy question #46: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-47",
-      "question": "Sample strategy question #47: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-48",
-      "question": "Sample strategy question #48: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-49",
-      "question": "Sample strategy question #49: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    },
-    {
-      "id": "hand-50",
-      "question": "Sample strategy question #50: You are dealt a speculative hand in the cutoff. Action folds to you. What is the optimal move?",
-      "options": [
-        "Fold",
-        "Call",
-        "Raise",
-        "All-in"
-      ],
-      "correct_answer": "Raise",
-      "explanation": "Speculative hands play well in position; opening in the cutoff is standard strategy.",
-      "tags": [
-        "preflop",
-        "position",
-        "cutoff",
-        "strategy"
-      ]
-    }
-  ]
+  {
+    "id": "hand-1",
+    "question": "You're in early position with A\u2660 K\u2666. What should you do preflop?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "Check"
+    ],
+    "correct_answer": "Raise",
+    "explanation": "AK offsuit is a premium hand in early position and should be raised.",
+    "tags": [
+      "preflop",
+      "early position",
+      "premium hands"
+    ]
+  },
+  {
+    "id": "hand-2",
+    "question": "You have 7\u2660 6\u2660 in the big blind and face a small raise from the cutoff. What\u2019s the optimal move?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors are good candidates to defend your big blind with a call.",
+    "tags": [
+      "preflop",
+      "big blind",
+      "defense"
+    ]
+  },
+  {
+    "id": "hand-3",
+    "question": "You flop top pair with a weak kicker. What should be your general approach?",
+    "options": [
+      "Bet big",
+      "Check",
+      "Fold",
+      "All-in"
+    ],
+    "correct_answer": "Check",
+    "explanation": "Top pair weak kicker is vulnerable; pot control is advisable.",
+    "tags": [
+      "postflop",
+      "top pair",
+      "kicker"
+    ]
+  },
+  {
+    "id": "hand-4",
+    "question": "On the river, you miss your flush draw. Your opponent checks. What should you consider?",
+    "options": [
+      "Bluff",
+      "Check behind",
+      "Fold",
+      "Call"
+    ],
+    "correct_answer": "Bluff",
+    "explanation": "If you have no showdown value and opponent shows weakness, bluffing is optimal.",
+    "tags": [
+      "river",
+      "bluff",
+      "missed draw"
+    ]
+  },
+  {
+    "id": "hand-5",
+    "question": "You hold 10\u2665 10\u2666 in the small blind and face a raise and a re-raise. What's your best action?",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Fold",
+    "explanation": "Tens are vulnerable to cold 4-bet pots; often crushed by JJ+, AK.",
+    "tags": [
+      "preflop",
+      "pairs",
+      "small blind"
+    ]
+  },
+  {
+    "id": "hand-6",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (6)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-7",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (7)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-8",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (8)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-9",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (9)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-10",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (10)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-11",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (11)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-12",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (12)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-13",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (13)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-14",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (14)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-15",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (15)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-16",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (16)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-17",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (17)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-18",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (18)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-19",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (19)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-20",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (20)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-21",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (21)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-22",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (22)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-23",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (23)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-24",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (24)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-25",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (25)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-26",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (26)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-27",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (27)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-28",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (28)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-29",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (29)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-30",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (30)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-31",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (31)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-32",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (32)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-33",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (33)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-34",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (34)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-35",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (35)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-36",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (36)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-37",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (37)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-38",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (38)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-39",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (39)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-40",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (40)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-41",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (41)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-42",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (42)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-43",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (43)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-44",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (44)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-45",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (45)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-46",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (46)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-47",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (47)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-48",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (48)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-49",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (49)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  },
+  {
+    "id": "hand-50",
+    "question": "You are in position with a medium suited connector. What is the ideal action preflop? (50)",
+    "options": [
+      "Fold",
+      "Call",
+      "Raise",
+      "All-in"
+    ],
+    "correct_answer": "Call",
+    "explanation": "Suited connectors in position have good playability and implied odds.",
+    "tags": [
+      "preflop",
+      "position",
+      "connectors"
+    ]
+  }
+]
