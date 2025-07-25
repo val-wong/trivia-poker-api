@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-const RANDOM_API = "http://localhost:8000/trivia/random";
-const SEARCH_API = "http://localhost:8000/trivia/search";
+const RANDOM_API = "https://poker-trivia-api.onrender.com/trivia/random";
+const SEARCH_API = "https://poker-trivia-api.onrender.com/trivia/search";
 
 export default function PokerTriviaUI() {
   const [questionData, setQuestionData] = useState(null);

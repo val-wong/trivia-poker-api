@@ -17,7 +17,7 @@ app = FastAPI()
 
 # ✅ CORS config
 allowed_origins = (
-    ["https://poker-trivia-frontend.onrender.com"]
+    ["https://trivia-poker-api.onrender.com"]
     if ENV == "production"
     else ["http://localhost:5173", "http://localhost:5176", "http://localhost:5177"]
 )

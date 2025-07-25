@@ -8,7 +8,7 @@ function DailyQuestion() {
 
   const fetchQuestion = async () => {
     try {
-      const res = await fetch("http://localhost:8000/trivia/random");
+      const res = await fetch("https://poker-trivia-api.onrender.com/trivia/random");
       const data = await res.json();
 
       // avoid repeat
