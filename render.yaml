@@ -14,6 +14,6 @@ services:
     name: poker-trivia-frontend
     env: node
     plan: starter
-    buildCommand: npm install && npm run build
-    startCommand: serve -s dist
     rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npx serve -s dist
